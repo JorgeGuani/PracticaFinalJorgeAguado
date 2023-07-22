@@ -1,0 +1,21 @@
+﻿body {
+}
+
+
+@media (max-width: 720px) {
+    h5 {
+        font-size: 14px;
+    }
+    .table th, .table td {
+        font-size: 13px;
+    }
+    .table button.btn {
+        font-size: 13px;
+    }
+    .columnIsCompleted {
+        min-width: 122px;
+    }
+    .mobile-hidden-column {
+        display: none;
+    }
+}
